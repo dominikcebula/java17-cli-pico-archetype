@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import picocli.CommandLine.Command;
 import picocli.CommandLine.Mixin;
 
-@Command(name = "list", description = "Lists all creates values")
+@Command(name = "list", description = "Lists all created values")
 public class ListCommand implements Runnable {
 
     private Logger logger = LoggerFactory.getLogger(ListCommand.class);
