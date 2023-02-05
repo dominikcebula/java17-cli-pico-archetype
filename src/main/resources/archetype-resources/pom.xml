@@ -65,7 +65,7 @@
                             <finalName>${project.artifactId}</finalName>
                             <archive>
                                 <manifest>
-                                    <mainClass>$package.Application</mainClass>
+                                    <mainClass>${package}.Application</mainClass>
                                     <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                                 </manifest>
                             </archive>
