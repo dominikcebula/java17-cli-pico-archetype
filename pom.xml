@@ -4,7 +4,7 @@
 
     <groupId>com.dominikcebula.archetypes</groupId>
     <artifactId>java17-cli-pico-archetype</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>java17-cli-pico-archetype</name>
@@ -34,7 +34,7 @@
         <developerConnection>scm:git:https://github.com/dominikcebula/java17-cli-pico-archetype.git
         </developerConnection>
         <url>https://github.com/dominikcebula/java17-cli-pico-archetype</url>
-        <tag>java17-cli-pico-archetype-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
